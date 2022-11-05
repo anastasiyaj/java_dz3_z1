@@ -3,7 +3,7 @@ public class Main {
 
         int prise = 7500;
         int priseMile = 20;
-        int mile = prise/priseMile;
-        System.out.println("Начислено миль за покупку билета - "+mile);
+        int mile = prise / priseMile;
+        System.out.println("Начислено миль за покупку билета - " + mile);
     }
 }
